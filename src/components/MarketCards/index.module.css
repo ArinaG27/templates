@@ -1,0 +1,27 @@
+.card_item {
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+   
+  }
+
+  .value {
+    font-size: 80px;
+    font-weight: 600;
+    color: #F7654A;
+  }
+
+  .title {
+    font-size: 46px;
+    font-weight: 600;
+    color: black;
+  }
+
+  .text{
+    font-size: 28px;
+    font-weight: 190;
+    color: black;
+  }
+

@@ -1,0 +1,18 @@
+.card_item{
+    background-color: white;
+    padding: 0 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+
+  .title{
+    font-size: 24px;
+    font-weight: 500;
+    width: 350px;
+  }
+
+  .text{
+    font-size: 16px;
+    font-weight: 400; 
+  }
